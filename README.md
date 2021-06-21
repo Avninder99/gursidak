@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
+<p align="center">
+   <a href="https://github.com/gursidak">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
+     </p>
+  <h1 align="center"> Hey, I'm Gursidak Singh 👋 </h1>
 <!--
 **gursidak/gursidak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align = "center">
+  <a href="https://github.com/gursidak">
+<img src = "https://github-readme-stats.vercel.app/api?username=gursidak&&show_icons=true&hide_border=true&theme=great-gatsby&hide=stars,issues" >
+ </a>
+</p>
