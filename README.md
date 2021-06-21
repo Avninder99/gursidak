@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <a href="https://github.com/gursidak">
-<img src = "https://github-readme-stats.vercel.app/api?username=gursidak&&show_icons=true&hide_border=true&theme=great-gatsby&hide=stars,issues" >
+<img src = "https://github-readme-stats.vercel.app/api?username=gursidak&&show_icons=true&hide_border=true&theme=great-gatsby" >
  </a>
 </p>
